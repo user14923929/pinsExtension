@@ -22,7 +22,7 @@ enum AnalogCompare {
     Less = 2
 }
 
-namespace myPins {
+namespace pins {
     /**
      * Runs code when the specified pin has a given digital signal
      */
