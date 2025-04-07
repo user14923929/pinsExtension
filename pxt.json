@@ -1,5 +1,5 @@
 {
-    "name": "myPinsExtension",
+    "name": "pinsExtension",
     "version": "0.0.1",
     "description": "Custom blocks for digital and analog pin signal conditions",
     "dependencies": {
